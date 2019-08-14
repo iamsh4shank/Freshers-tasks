@@ -1,0 +1,2 @@
+# This is the file which contains information about doing Google Scrappimg using Ruby.
+# in this file I had imported some module using "require" command.These module are nokogiri , byebug , httparty.
