@@ -8,4 +8,5 @@ You can also check my blog i.e (https://shashankamfoss.blogspot.com/)
 |-------------------------|--------------------------------------------------------------|-------------|----------------|
 |1. Installing Ubuntu     |https://ubuntu.com/download/desktop                           |Installed    |Downloaded and installed|
 |2. Programming           |https://github.com/shashank629/amfoss-tasks/tree/master/TASK%202|Completed all the task|Used Python |
-|3. Google Scrapping      |https://github.com/shashank629/amfoss-tasks/blob/master/Google_scrapping.rb|completed for wiki scrapping |
+|3. Google Scrapping      |https://github.com/shashank629/amfoss-tasks/blob/master/Google_scrapping.rb|completed for wiki scrapping some issue for google scrapping|
+
