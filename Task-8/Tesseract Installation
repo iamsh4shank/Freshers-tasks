@@ -1,0 +1,14 @@
+Here i had pasted my command prompt commands after installation.
+
+
+
+C:\Users\LENOVO>pip install pytesseract
+Collecting pytesseract
+  Downloading https://files.pythonhosted.org/packages/1d/40/3f72d13d0f347bf688ff189b6d6bb369125c0bed9ed4b15e7f20c65123a8/pytesseract-0.2.7.tar.gz (169kB)
+    100% |████████████████████████████████| 174kB 1.3MB/s
+Requirement already satisfied: Pillow in c:\users\Lenovo\appdata\local\programs\python\python37-32\lib\site-packages (from pytesseract) (6.1.0)
+Installing collected packages: pytesseract
+  Running setup.py install for pytesseract ... done
+Successfully installed pytesseract-0.2.7
+You are using pip version 19.0.3, however version 19.2.2 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
