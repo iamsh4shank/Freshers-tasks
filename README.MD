@@ -16,6 +16,7 @@
 ### Below given task are completed after 11th of august
 
 |Task name                       |Status       |Overview               |Link |
+|--------------------------------|-------------|-----------------------|-----|
 |4.Task-3(Google Scrapping)     |completed for wiki scrapping some issue for google scrapping|Completed using ruby imported module nokogiri, httparty,byebug|https://github.com/shashank629/amfoss-tasks/tree/master/Task-3| 
 |5.Task-4(Advanced Xor)|Partial completed|Some issye is raised(click the link given in the link section to know more )|https://shashankamfoss.blogspot.com/p/blog-page_56.html|
 |6.Task-8(Captcha Breaking)     |Completed |Installed  PIP and PIL also installed tesseract OCR,installed PyTesseract, also created a png file for captcha (other info in github)|https://github.com/shashank629/amfoss-tasks/tree/master/Task-8 |
