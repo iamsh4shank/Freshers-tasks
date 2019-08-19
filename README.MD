@@ -1,5 +1,6 @@
 ## In this repository i had given my all programs of the task given in amFOSS freshers task.
-## You can also check my blog i.e (https://shashankamfoss.blogspot.com/).This blog contains all these informations.
+## You can also check my blog i.e (https://shashankamfoss.blogspot.com/).
+## This blog contains all these informations.
 
 
 
