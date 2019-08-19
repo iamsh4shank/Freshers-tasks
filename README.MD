@@ -11,4 +11,5 @@ You can also check my blog i.e (https://shashankamfoss.blogspot.com/)
 |3. Google Scrapping             |https://github.com/shashank629/amfoss-tasks/blob/master/Google_scrapping.rb|completed for wiki scrapping some issue for google scrapping|Completed using ruby imported module nokogiri, httparty,byebug|
 |4.Captcha Breaking              |https://github.com/shashank629/amfoss-tasks/tree/master/Captcha_breaking                      |Completed but only reading one captcha     |Installed  PIP and PIL also installed tesseract OCR,installed PyTesseract,Image magic tools downloaded, also created a png file for captcha | 
 |5.Email Rusting| | |Learning rusting |
+|6.Advanced Xor||||
 |6.CLI app | | |Learning GO  |
