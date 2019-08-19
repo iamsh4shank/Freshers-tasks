@@ -11,7 +11,7 @@
 |--------------------------------|--------------------------------------------------------------|-------------|----------------|
 |1.Task-0(Installing Ubuntu      |Installed    |Downloaded and installed)|https://github.com/shashank629/amfoss-tasks/blob/master/Task-0/Installing_Ubuntu-README.MD|
 |2.Task-1(Star the amFOSS repositories)|-|-|-|
-|3.Task-2(Programming)          |Used Python 2 |https://github.com/shashank629/amfoss-tasks/tree/master/TASK%202|Completed all the task|
+|3.Task-2(Programming)          |Used Python 2 |Completed all the task|https://github.com/shashank629/amfoss-tasks/tree/master/TASK%202|
 
 ### Below given task are completed after 11th of august
 
@@ -20,7 +20,7 @@
 |4.Task-3(Google Scrapping)     |completed for wiki scrapping some issue for google scrapping|Completed using ruby imported module nokogiri, httparty,byebug|https://github.com/shashank629/amfoss-tasks/tree/master/Task-3| 
 |5.Task-4(Advanced Xor)|Partial completed|Some issye is raised(click the link given in the link section to know more )|https://shashankamfoss.blogspot.com/p/blog-page_56.html|
 |6.Task-8(Captcha Breaking)     |Completed |Installed  PIP and PIL also installed tesseract OCR,installed PyTesseract, also created a png file for captcha (other info in github)|https://github.com/shashank629/amfoss-tasks/tree/master/Task-8 |
-|7.Task-9(Personal Website)|partial|as i had insatalled all required library but it is not opening(click the link given in link section to know more)|https://github.com/shashank629/amfoss-tasks/tree/master/Task-9|
+|7.Task-9(Personal Website)|partial completed|as i had insatalled all required library but it is not opening(click the link given in link section to know more)|https://github.com/shashank629/amfoss-tasks/tree/master/Task-9|
 
 
 ## Task not completed 5,6,7.I had tried alot to do all the task for this i also started learning GO language.
