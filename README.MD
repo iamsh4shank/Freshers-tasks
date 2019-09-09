@@ -17,8 +17,9 @@
 |4. Task-3 (Google Scrapping)     |completed for wiki scrapping some issue for google scrapping|Completed using ruby imported module nokogiri, httparty,byebug|https://github.com/shashank629/amfoss-tasks/tree/master/Task-3| 
 |5. Task-4 ( Advanced Xor)|Partial completed|Some issue is raised(click the link given in the link section to know more )|https://shashankamfoss.blogspot.com/p/blog-page_56.html|
 |6. Task-6(CLI app using Golang)|Completed|Completed by the help of dghubble,twitter tokens and go language|https://github.com/shashank629/amfoss-tasks/tree/master/Task-6|
-|7. Task-8 (Captcha Breaking)     |Completed |Installed  PIP and PIL also installed tesseract OCR,installed PyTesseract, also created a png file for captcha (other info in github)|https://github.com/shashank629/amfoss-tasks/tree/master/Task-8 |
-|8. Task-9 (Personal Website)|Completed|I had installed ruby and all its required packages,took help from some of github and google pages|my website link is-https://shashank629.github.io/               and github link is-https://github.com/shashank629/amfoss-tasks/tree/master/Task-9 |
+|7. Task-7(Email Rusting)|Completed|Completed by learning the synatx of rust and regex also helped||https://github.com/shashank629/amfoss-tasks/tree/master/Task-7
+|8. Task-8 (Captcha Breaking)     |Completed |Installed  PIP and PIL also installed tesseract OCR,installed PyTesseract, also created a png file for captcha (other info in github)|https://github.com/shashank629/amfoss-tasks/tree/master/Task-8 |
+|9. Task-9 (Personal Website)|Completed|I had installed ruby and all its required packages,took help from some of github and google pages|my website link is-https://shashank629.github.io/               and github link is-https://github.com/shashank629/amfoss-tasks/tree/master/Task-9 |
 
 
 
