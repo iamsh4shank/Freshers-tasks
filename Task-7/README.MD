@@ -1,1 +1,1 @@
-This folder contain the codes of rusting done by regex.
+This folder contain the codes of rusting done by regex and rust.
