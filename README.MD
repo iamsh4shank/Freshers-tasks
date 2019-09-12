@@ -20,7 +20,7 @@
 |7. Task-7 (Email Rusting)|Completed|Completed by learning the synatx of rust and regex also helped|https://github.com/shashank629/amfoss-tasks/tree/master/Task-7|
 |8. Task-8 (Captcha Breaking)     |Completed |Installed  PIP and PIL also installed tesseract OCR,installed PyTesseract, also created a png file for captcha (other info in github)|https://github.com/shashank629/amfoss-tasks/tree/master/Task-8 |
 |9. Task-9 (Personal Website)|Completed|I had installed ruby and all its required packages,took help from some of github and google pages|my website link is-https://shashank629.github.io/               and github link is-https://github.com/shashank629/amfoss-tasks/tree/master/Task-9 |
-|10.Task-11(Pong game)|Completed for single player|completed for single player trying to develope it for multiplayer||
+|10.Task-11(Pong game)|Completed |completed by using javascript and HTML.Here I created two paddle and one ball||
 |11.task-13(Euler Problem)|Completed euler 1,euler 2,euler 3|These problem involve maths as we have to develop logic based on basics knowledge of series and sequences|https://github.com/shashank629/amfoss-tasks/tree/master/Task-13|
 
 
