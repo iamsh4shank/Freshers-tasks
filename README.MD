@@ -22,7 +22,7 @@
 |9. Task-9 (Personal Website)|Completed|I had installed ruby and all its required packages,took help from some of github and google pages|my website link is-https://shashank629.github.io/               and github link is-https://github.com/shashank629/amfoss-tasks/tree/master/Task-9 |
 |10.Task-11 (Pong game)|Completed |completed by using javascript and HTML.Here I created two paddle and one ball|https://github.com/shashank629/amfoss-tasks/tree/master/Task-11|
 |11.Task-12 (reverse.py)|Completed |completed by writing three functions named as decode,reverseshift and xor.|https://github.com/shashank629/amfoss-tasks/tree/master/Task-12|
-|11.task-13 (Euler Problem)|Completed euler 1,euler 2,euler 3|These problem involve maths as we have to develop logic based on basics knowledge of series and sequences|https://github.com/shashank629/amfoss-tasks/tree/master/Task-13|
+|11.task-13 (Euler Problem)|Completed euler 1,euler 2,euler 3,euler 5|These problem involve maths as we have to develop logic based on basics knowledge of series and sequences|https://github.com/shashank629/amfoss-tasks/tree/master/Task-13|
 
 
 
@@ -54,4 +54,4 @@ If not selected then i will put my all the efforts to learn the new things, prac
 In starting the work is very smooth like very fastly i installed the ubuntu then very fastly i had done all the programming codes in Python2.7.And after this i started my work for advanced Xor their i struck and after giving lots of time to that sinlge task i was quiet disappointed by myself.So after some time i started working on google scrapping.That task has also taken my lots of time but their i got success.From past one week i am suffering from little fever i had taken medicine so from yesterday i am well.So these all the blockers.
 
 ## Feedback-
-First of all commenting about the task, i will say that these all task are given in such a way that we learn a lot from this and by the help of these task i started google searching all my doubts.These all task helps me to improve my thinking ability and they also taught me one of the important point that do not stop learning,day by day learn something new.For our mentors i will say that they are always their to notify us to update our activity.
+* First of all commenting about the task, i will say that these all task are given in such a way that we learn a lot from this and by the help of these task i started google searching all my doubts.These all task helps me to improve my thinking ability and they also taught me one of the important point that do not stop learning,day by day learn something new.For our mentors i will say that they are always their to notify us to update our activity.
