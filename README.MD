@@ -40,18 +40,18 @@ If not selected then i will put my all the efforts to learn the new things, prac
 
 ## Why I should be in this club-
 
-#### >I am very good at developing logic for a program.
-#### >I am very keen and fast learner.
-#### >I will give my 100 percent to the club.Whatever the task they will give i will put my all efforts to do.
-#### >I know python.
-#### >I am having a big dream to be a coder.So this club will surely help me.
-#### >I had done Diploma in Computer management.
-#### >I will put my all the efforts to give benefits to myself and the club.
-#### >I will surely work under the discipline.
-#### >I will be regular in all the club activities.
+* I am very good at developing logic for a program.
+* I am very keen and fast learner.
+* I will give my 100 percent to the club.Whatever the task they will give i will put my all efforts to do.
+* I know python.
+* I am having a big dream to be a coder.So this club will surely help me.
+* I had done Diploma in Computer management.
+* I will put my all the efforts to give benefits to myself and the club.
+* I will surely work under the discipline.
+* I will be regular in all the club activities.
 
 ## Blockers-
 In starting the work is very smooth like very fastly i installed the ubuntu then very fastly i had done all the programming codes in Python2.7.And after this i started my work for advanced Xor their i struck and after giving lots of time to that sinlge task i was quiet disappointed by myself.So after some time i started working on google scrapping.That task has also taken my lots of time but their i got success.From past one week i am suffering from little fever i had taken medicine so from yesterday i am well.So these all the blockers.
 
 ## Feedback-
-* First of all commenting about the task, i will say that these all task are given in such a way that we learn a lot from this and by the help of these task i started google searching all my doubts.These all task helps me to improve my thinking ability and they also taught me one of the important point that do not stop learning,day by day learn something new.For our mentors i will say that they are always their to notify us to update our activity.
+First of all commenting about the task, i will say that these all task are given in such a way that we learn a lot from this and by the help of these task i started google searching all my doubts.These all task helps me to improve my thinking ability and they also taught me one of the important point that do not stop learning,day by day learn something new.For our mentors i will say that they are always their to notify us to update our activity.
