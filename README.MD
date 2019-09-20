@@ -23,7 +23,7 @@
 |10.Task-11 (Pong game)|Completed |completed by using javascript and HTML.Here I created two paddle and one ball|https://github.com/shashank629/amfoss-tasks/tree/master/Task-11|
 |11.Task-12 (reverse.py)|Completed |completed by writing three functions named as decode,reverseshift and xor.|https://github.com/shashank629/amfoss-tasks/tree/master/Task-12|
 |12.Task-13 (Euler Problem)|Completed euler 1,euler 2,euler 3,euler 5|These problem involve maths as we have to develop logic based on basics knowledge of series and sequences|https://github.com/shashank629/amfoss-tasks/tree/master/Task-13|
-|13.Task-14(Bandit)|Completed|In starting the levels are very easy their i founded the key by the help of basic linux command.After this some complex command are used like uniq,grep,sort , fine and etc|| 
+|13.Task-14(Bandit)|Completed|In starting the levels are very easy their i founded the key by the help of basic linux command.After this some complex command are used like uniq,grep,sort , fine and etc|https://github.com/robustTechie/amfoss-tasks/tree/master/Task-14| 
 
 
 
