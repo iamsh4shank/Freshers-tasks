@@ -5,7 +5,9 @@ I started the bandit server by writing
 
 Then after this it asked me password  which was *bandit0* thenafter this I used *ls* so their I found a readme file by the help of cat I opened it and then I found password for next level(level 1) from here.
 
-Then after this I exit it then again i called the server by **"ssh bandit1@bandit.labs.overthewire.org -p 2220"** by this I opened my level 1 and the entered the above accesed password. And here also by the help of *ls* i abound a file "-" here so I opened it by the help of **cat ~./-** and get the password of next level.
+Then after this I exit it then again i called the server by **"ssh bandit1@bandit.labs.overthewire.org -p 2220"** by this I opened my level 1 and the entered the above accessed password.
+
+Then here also by the help of *ls* i found a file "-" here so I opened it by the help of **cat ~./-** and get the password of next level.
 
 Again I exited and recalled the server by above commands just replacing 1 by 2 and then I entered the above accessed password in this then I got a file named as "spaces in this filename" I open this file by **"cat spaces\ in\ this\ filename"** and I again got the password and then i exited and recalled the server by entering the password.
 
