@@ -3,7 +3,7 @@ I started the bandit server by writing
 
 **"ssh bandit@bandit.labs.overthewire.org -p 2220"**
 
-Level 0 to 1:
+_Level 0 to 1:_
 
 Then after this it asked me password  which was *bandit0* thenafter this I used *ls* so their I found a readme file by the help of cat I opened it and then I found password for next level(level 1) from here.
 
