@@ -5,4 +5,4 @@ then after this it asked me password  which was bandit0 thenafter this i used ls
 
 
 
-In this some commands like grep, uniq , sort etc so u had taken the help of man and some other google searches for knowing what they actually do
+In this some commands like grep, uniq , sort etc so u had taken the help of man and some other google searches for knowing what they actually do.
