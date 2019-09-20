@@ -1,9 +1,9 @@
 ### I am sharing my experience regarding bandit
 I started the bandit server by writing
-ssh bandit@bandit.labs.overthewire.org -p 2220
+"ssh bandit@bandit.labs.overthewire.org -p 2220"
 then after this it asked me password  which was bandit0 thenafter this i used ls file so their I found a readme file by the help of cat 
 I opened it and then i found password for next level(level 1) from here.Then after this I exit it then again i called the server by 
-ssh bandit1@bandit.labs.overthewire.org -p 2220
+"ssh bandit1@bandit.labs.overthewire.org -p 2220"
 by this I opened my level 1 and the entered the above accesed password.And here also by the help[ of ls i abound a file "-" here so I opened it by the help of cat ~./- and get the password of next level.
 again i exited and recalled the server by above commands just replacing 1 by 2 and then i entered the above accessed password in this then I got a file named as "spaces in this filename" i open this file by 
 "cat spaces\ in\ this\ filename" and i agin got the password and then i exited and recalled the server by entering the password.And by entering the ls I got a directory named as inhere in which i have to finad a file which is human readable and of size 1033 and it is not executable.I dounded this file by 
