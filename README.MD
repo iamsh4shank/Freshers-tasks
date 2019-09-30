@@ -12,7 +12,7 @@ The blog provided above contains all these informations.
 |2. Task-1 (Star the amFOSS repositories)|-|-|-|
 |3. Task-2 (Programming)          |Used Python 2 |Completed all the task|https://github.com/robustTechie/amfoss-tasks/tree/master/TASK%202|
 
-### Below given task are completed after 11th of august
+Below given task are completed after 11th of august
 
 |Task name                       |Status       |Overview               |Link |
 |--------------------------------|-------------|-----------------------|-----|
