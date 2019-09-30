@@ -37,5 +37,29 @@ Below given task are completed after 11th of august
 After learning python some months i had not practiced it but when i started the first task of FOSS my logic thinking                     ability was coming back and i am also remembering the forgotten things. I can think logic for various program.So this                   helped me a lot to keep me in a pace.
 
 ## What i am going to do in next 6 months-
-###     If i am selected - 
+**If i am selected -**
+
+
 In next 6 months i will put my all the efforts to learn coding as much as i can  and getting new experience.                            and I will also try to trigger my goal i.e. GSoc.
+
+**If I am not selected-**
+
+
+If not selected then i will put my all the efforts to learn the new things, practice more codes,try to figure out all the problems,also try to do work on given time(try to manage my time efficiently).And i will again apply for am-FOSS in second semester.
+
+
+## Why I should be in this club-
+* I am very good at developing logic for a program.
+* I am very keen and fast learner.
+* I will give my 100 percent to the club.Whatever the task they will give i will put my all efforts to do.
+* I know python.
+* I am having a big dream to be a coder.So this club will surely help me.
+* I had done Diploma in Computer management.
+* I will put my all the efforts to give benefits to myself and the club.
+* I will surely work under the discipline.
+* I will be regular in all the club activities.
+
+## Blockers-
+In starting the work is very smooth like very fastly i installed the ubuntu then very fastly i had done all the programming codes in Python2.7.And after this i started my work for advanced Xor their i struck and after giving lots of time to that sinlge task i was quiet disappointed by myself.So after some time i started working on goolgle scrapping.That task has also taken my lots of time but their i got success.From past one week i am suffering from fever i had taken medicine so from yesterday i am well.So these all the blockers.
+
+
