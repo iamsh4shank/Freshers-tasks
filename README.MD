@@ -10,7 +10,7 @@ The blog provided above contains all these informations.
 |--------------------------------|--------------------------------------------------------------|-------------|----------------|
 |1. Task-0 (Installing Ubuntu      |Installed    |Downloaded and installed)|https://github.com/robustTechie/amfoss-tasks/blob/master/Task-0/Installing_Ubuntu-README.MD|
 |2. Task-1 (Star the amFOSS repositories)|-|-|-|
-|3. Task-2 (Programming)          |Used Python 2 |Completed all the task|https://github.com/robustTechie/amfoss-tasks/tree/master/TASK%202|
+|3. Task-2 (Programming)          |Used Python 2 |Completed all the task|https://github.com/robustTechie/amfoss-tasks/tree/master/Task-2|
 
 Below given task are completed after 11th of august
 
