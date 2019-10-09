@@ -63,3 +63,5 @@ If not selected then i will put my all the efforts to learn the new things, prac
 In starting the work is very smooth like very fastly i installed the ubuntu then very fastly i had done all the programming codes in Python2.7.And after this i started my work for advanced Xor their i struck and after giving lots of time to that sinlge task i was quiet disappointed by myself.So after some time i started working on goolgle scrapping.That task has also taken my lots of time but their i got success.From past one week i am suffering from fever i had taken medicine so from yesterday i am well.So these all the blockers.
 
 
+update it as previous
+
