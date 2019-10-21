@@ -23,7 +23,7 @@ Below given task are completed after 11th of august
 |7. Task-7 (Email Rusting)|Completed|Completed by learning the synatx of rust and regex also helped|https://github.com/robustTechie/amfoss-tasks/tree/master/Task-7|
 |8. Task-8 (Captcha Breaking)     |Completed |Installed  PIP and PIL also installed tesseract OCR,installed PyTesseract, also created a png file for captcha (other info in github)|https://github.com/robustTechie/amfoss-tasks/tree/master/Task-8 |
 |9. Task-9 (Personal Website)|Completed|I had installed ruby and all its required packages,took help from some of github and google pages|my website link is-https://robustTechie.github.io/               and github link is-https://github.com/robustTechie/amfoss-tasks/tree/master/Task-9 |
-|10.Task-10 (CS50)|Pset-1,Pset-2,Pset-3 and Pset-4 are completed||https://github.com/robustTechie/amfoss-tasks/tree/master/Task-10|
+|10.Task-10 (CS50)|Completed||https://github.com/robustTechie/amfoss-tasks/tree/master/Task-10|
 |11.Task-11 (Pong game)|Completed |completed by using javascript and HTML.Here I created two paddle and one ball|https://github.com/robustTechie/amfoss-tasks/tree/master/Task-11|
 |12.Task-12 (reverse.py)|Completed |completed by writing three functions named as decode,reverseshift and xor.|https://github.com/robustTechie/amfoss-tasks/tree/master/Task-12|
 |13.Task-13 (Euler Problem)|Completed euler 1,euler 2,euler 3,euler 5|These problem involve maths as we have to develop logic based on basics knowledge of series and sequences|https://github.com/robustTechie/amfoss-tasks/tree/master/Task-13|
