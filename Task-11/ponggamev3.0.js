@@ -24,6 +24,18 @@ var render = function() {
   context.fillStyle = "#000000";
   context.fillRect(0, 0, width, height);
 };
+function bound(x,y,width,height) {
+  this.x = x ;
+  this.y = y;
+  this.width = width;
+  this.height = height;
+  this.x_speed = 0;
+  this.y_speed = 0;
+}
+bound.prototype.render = function() {
+  context.fillStyle = "#FFFFFF";
+  context.fillRect(this.x, this.y, this.width, this.height);
+};
 function Paddle(x, y, width, height) {
   this.x = x;
   this.y = y;
@@ -213,4 +225,6 @@ var update = function() {
   playertwo.update();
   ball.update(playerone.paddle, playertwo.paddle);
 };
+
+
 
