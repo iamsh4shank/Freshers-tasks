@@ -1,4 +1,4 @@
-This folder contains some programming tasks given in amFOSS.
+This folder contains some programming tasks.
 
 There are two subfolders in which one contains program of codeforces and other contain programs of hackerrank.
 
